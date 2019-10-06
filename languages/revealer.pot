@@ -1,0 +1,210 @@
+# Copyright (C) 2019 Revealer
+# This file is distributed under the same license as the Revealer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Revealer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/revealer/revealer.php:474
+msgid "Revealer Settings"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:475
+msgid "Revealer"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:495
+msgid "Revealer add stylish hover pop-up with five animation effects for internal WordPress website links."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:543
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:544
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:569
+msgid "Selector:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:572
+msgid "Style:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:575
+msgid "Arrow:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:578
+msgid "Animation:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:581
+msgid "Pop-up Size:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:584
+msgid "Image position:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:587
+msgid "Author position:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:590
+msgid "Categories position:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:593
+msgid "Comments position:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:596
+msgid "Excerpt Length:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:599
+msgid "Background Color:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:602
+msgid "Text Color:"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:619
+msgid "Without Image"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:620, wp-content/plugins/revealer/revealer.php:646, wp-content/plugins/revealer/revealer.php:664, wp-content/plugins/revealer/revealer.php:682
+msgid "Top"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:621, wp-content/plugins/revealer/revealer.php:647, wp-content/plugins/revealer/revealer.php:665, wp-content/plugins/revealer/revealer.php:683
+msgid "Bottom"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:622
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:623
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:624
+msgid "Top or Bottom"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:625
+msgid "Top or Left"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:626
+msgid "Top or Right"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:627
+msgid "Bottom or Left"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:628
+msgid "Bottom or Right"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:629
+msgid "Random"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:645
+msgid "Hide author"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:663
+msgid "Hide categories"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:681
+msgid "Hide comments"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:699
+msgid "The length of the text in popup in words."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:714
+msgid "Set the popup size in px, % or em."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:729
+msgid "Without Arrow"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:730
+msgid "Sharp"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:731
+msgid "Round"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:733
+msgid "Determines if an arrow should be added to pointing toward the reference element and the arrow type."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:748
+msgid "Links by selector will be processed. You can specify multiple selectors separated by commas."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:787
+msgid "Shift Away"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:788
+msgid "Shift Toward"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:789
+msgid "Fade"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:790
+msgid "Scale"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:791
+msgid "Perspective"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:793
+msgid "The type of transition animation."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:808
+msgid "Rectangle"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:809
+msgid "Rounded rectangle"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:810
+msgid "Image in background"
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:929
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/revealer/revealer.php:944
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""

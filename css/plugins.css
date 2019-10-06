@@ -1,0 +1,36 @@
+/**
+ * Revealer - Adds a stylish hover pop-up with five animation effects for internal WordPress website links.
+ *
+ * @encoding UTF-8
+ * @version 1.0.2
+ * @copyright Copyright (C) 2019 merkulove ( https://1.envato.market/cc-merkulove ). All rights reserved.
+ * @license Envato License https://1.envato.market/KYbje
+ * @author merkulove
+ * @url https://revealer.merkulov.design/
+**/
+
+.plugins .plugin-title .cc-merkulove img {
+  height: 13px;
+  width: 16px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+  float: none;
+  padding: 0;
+  margin-right: 4px;
+}
+.mdp-revealer-rating-stars a {
+  outline: none;
+  display: inline-block;
+  width: 14px;
+}
+.mdp-revealer-rating-stars a:hover {
+  text-decoration: none !important;
+}
+.mdp-revealer-rating-stars a:focus {
+  box-shadow: none;
+}
+.mdp-revealer-rating-stars .dashicons {
+  color: #ffb900;
+  font-size: 16px;
+}
